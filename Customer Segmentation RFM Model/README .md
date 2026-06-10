@@ -41,8 +41,8 @@ E-commerce and retail companies need to identify their most valuable customers, 
 - Introduce Platinum tier to create Champions
 
 ## 📸 Dashboard Screenshots
-![Dashboard Overview](Screenshots%202026-06-11%20025137.png)
-![Insights Page](Screenshots%202026-06-11%20031908.png)
+![Dashboard Overview](Screenshot%202026-06-11%20025137.png)
+![Insights Page](Screenshot%202026-06-11%20031908.png)
 
 ## 📁 Files in Repository
 - `Dataset/customer_master_RFM.csv`
