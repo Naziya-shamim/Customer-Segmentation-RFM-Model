@@ -41,7 +41,7 @@ E-commerce and retail companies need to identify their most valuable customers, 
 - Introduce Platinum tier to create Champions
 
 ## 📸 Dashboard Screenshots
-![Dashboard Overview](Screenshot%202026-06-11%20025137.png)
+![Dashboard Overview](https://github.com/Naziya-shamim/Customer-Segmentation-RFM-Model/blob/main/Customer%20Segmentation%20RFM%20Model/Screenshorts/Screenshot%202026-06-11%20025137.png)
 ![Insights Page](Screenshot%202026-06-11%20031908.png)
 
 ## 📁 Files in Repository
